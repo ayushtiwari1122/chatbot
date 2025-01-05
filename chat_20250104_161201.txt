@@ -1,0 +1,6 @@
+a said: goodday
+sem replied: Agent message
+a said: exit
+sem replied: User message
+a said: exit
+sem replied: haha i dont know about that please call the college 
